@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Normative Pro';
+    src: local('Normative Pro Medium Italic'), local('Normative-Pro-Medium-Italic'),
+        url('NormativePro-MediumItalic.woff2') format('woff2'),
+        url('NormativePro-MediumItalic.woff') format('woff'),
+        url('NormativePro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+  }
